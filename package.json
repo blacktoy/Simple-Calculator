@@ -1,0 +1,11 @@
+{
+  "name": "simple-calculator",
+  "icon": "32-icon.png",
+  "icon64": "64-icon.png",
+  "title": "Simple-Calculator",
+  "id": "jid1-hGKEHPUjR8q8Bw",
+  "description": "a basic simple math operator add-on",
+  "author": "Bakti Karnoaji",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}
