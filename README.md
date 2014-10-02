@@ -1,4 +1,0 @@
-Simple-Calculator
-=================
-
-firefox extensions
