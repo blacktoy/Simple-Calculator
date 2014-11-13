@@ -1,7 +1,7 @@
 {
   "name": "simple-calculator-v0-1",
-  "icon": "32-icon.png",
-  "icon64": "64-icon.png",
+  "icon": "iconmonstr-calculator-9-icon-32.png",
+  "icon64": "iconmonstr-calculator-9-icon-64.png",
   "title": "Simple-Calculator",
   "id": "jid1-hGKEHPUjR8q8Bw",
   "description": "a basic simple math operator add-on",
