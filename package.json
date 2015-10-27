@@ -1,11 +1,14 @@
 {
-  "name": "simple-calculator-v0-1",
-  "icon": "iconmonstr-calculator-9-icon-32.png",
-  "icon64": "iconmonstr-calculator-9-icon-64.png",
   "title": "Simple-Calculator",
-  "id": "jid1-hGKEHPUjR8q8Bw",
+  "name": "simple-calculator",
+  "version": "1.2.0",
   "description": "a basic simple math operator add-on",
+  "id": "jid1-hGKEHPUjR8q8Bw@jetpack",
+  "icon": "resource://jid1-hGKEHPUjR8q8Bw-at-jetpack/data/calculator-addon-icon/kalkulator64_icon.png",
+  "main": "index.js",
   "author": "Bakti Karnoaji",
-  "license": "MPL 2.0",
-  "version": "0.1"
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MPL 2.0"
 }
