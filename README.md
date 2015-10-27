@@ -1,8 +1,6 @@
 #Simple-Calculator
 a basic simple math operator add-on
 
-Simple-Calculator
-=================
 firefox extensions
 ------------------
 
@@ -23,6 +21,7 @@ Ver. 1.0:
 Ver. 1.1.0:
 
 Changing from cfx to jpm.
+
 1. Added copy to system clipboard function.
 2. Some layout adjustment. 
 
