@@ -1,15 +1,13 @@
 /*Basic reset */
 *{
-	margin: 0;
+	margin: 1;
 	padding: 0;
-	
-	/* Better text styling */
 	font: bold 14px Arial, Helvetica, sans-serif;
 }
 
 /* Using span shadows to create 3D effects */
 #calculator {
-	width: 242px;
+	width: 243px;
 	height: auto;
 	
 	margin: 7px auto;
@@ -29,7 +27,7 @@
 /* Inset shadow on the screen to create indent */
 .top .screen {
 	height: 35px;
-	width: 157px;
+	width: 158px;
 	
 	float: right;
 	
@@ -82,15 +80,16 @@
 }
 
 #copy-result{
-	width: 176px;
+	width: 116px;
 	background: #B2CBFF;
 }
 
 /* Remove right margins from operator keys */
 /* style different type of keys (operators/evaluate/clear) differently */
 .keys span.operator {
+	float: right;
 	background: #fff066;
-	margin-right: 0;
+	margin-right: 6px;
 	box-shadow: 0px 3px #b28f00;
 }
 

@@ -30,3 +30,11 @@ Ver. 1.2.0:
 1. Added percent operator. Noted that it has very limited function in some calculation.
 2. Some layout adjustment.
 3. Icon change. Made it myself. 
+
+--Forgot to push some of the previews version--
+
+Ver. 1.3.1
+
+1. Migration to WebExtension API
+2. Improving calculation validity
+3. Bug fixes.
